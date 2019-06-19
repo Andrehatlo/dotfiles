@@ -4,9 +4,9 @@
 
 1. Install thoughtbot's dotfiles: https://github.com/thoughtbot/dotfiles
 
-2. Create ~/dotfile-local directory for custom configuration
+2. Clone repository in your `$HOME` director
 
-3. Clone repository in your `$HOME` director
+3. A ~/dotfile-local directory for custom dotfile configurations will be available
 
 # What's in it?
 
