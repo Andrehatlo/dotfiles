@@ -1,2 +1,2 @@
-gitconfig.local
-.gitconfig
+/gitconfig.local
+/.gitconfig
